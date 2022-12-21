@@ -951,7 +951,7 @@ textarea{
 .sub-scribe{
 	position:absolute;
 	top:40%;
-    left:65%;
+    left:66%;
     	
 }
 /*social section*/
@@ -1194,9 +1194,12 @@ h6{
 }
 .form{
 	width:100%;
+	padding:0px;
+	padding-bottom:20px;
 }
 .form1{
 	width:100%;
+	padding:0px;
 }
 input{
 	width:100%;
@@ -1217,30 +1220,10 @@ input{
 .col16{
 	width:100%;
 }
-.phone{
-	text-align:center;
-}
-.phone{
-	text-align:center;
-}
-.mail,.social-icon{
-	justify-content:center;
-	display:flex;
-}
-.cras{
-	text-align:center;
-}
 .use{
-	text-align:center;
 	padding-top:20px;
 }
-.privacy,.cras{
-	text-align:center;
-}
-.use{
-	text-align:center;
-	padding-top:20px;
-}
+
 
 /*last section*/
 .container1{
@@ -1434,6 +1417,10 @@ input{
     display:flex;
 	justify-content:center;
 }
+.form{
+	padding-right:10px;
+}
+
 /*footer section*/
 .container1{
 	margin:auto;
